@@ -6,9 +6,10 @@
 ### To run the program: 
 <ul>
   <li>
-    <span style="color: red;"> ! Make sure go is installed on your machine.</span> 
+    <span style="color: red;"> Make sure go is installed on your machine.</span> 
   </li>
 </ul>
+
 ```go
 $ go run main.go trace <ip-address>
 ```
