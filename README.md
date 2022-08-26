@@ -8,3 +8,7 @@ $ go run main.go trace <ip-address>
 ```
 
 ![ripyourip running on Colson's MacBook Pro](https://i.imgur.com/UoDWobr.png)
+
+You can load more info referring to the JSON response, in cmd/trace.go
+
+![ripyourip postman retrieving http get request on ipinfo.io](https://i.imgur.com/ByYLp40.png)
