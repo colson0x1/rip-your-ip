@@ -8,7 +8,7 @@
   <li>
     <span style="color: #f03c15;"> Make sure go is installed on your machine. https://go.dev/dl/ </span> 
   </li>
-</ul><br/>
+</ul>
 
 ```go
 $ go run main.go trace <ip-address>
