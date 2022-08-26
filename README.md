@@ -1,15 +1,14 @@
 # RIPyourIP
-> <span style="color: blue;">CLI tool that let's you trace credentials based on an IP address.</span>
+> <span style="color: #1589F0;">CLI tool that let's you trace credentials based on an IP address.</span>
 
 ***
 
 ### To run the program: 
 <ul>
   <li>
-    <span style="color: red;"> Make sure go is installed on your machine.</span> 
+    <span style="color: #f03c15;"> Make sure go is installed on your machine. https://go.dev/dl/ </span> 
   </li>
-</ul>
-<i>You can download it here:</i> https://go.dev/dl/ <br/>
+</ul><br/>
 
 ```go
 $ go run main.go trace <ip-address>
