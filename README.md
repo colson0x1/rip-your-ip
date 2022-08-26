@@ -4,7 +4,11 @@
 ***
 
 ### To run the program: 
-<span style="color: red;"> ! Make sure go is installed on your machine.</span> <br/>
+<ul>
+  <li>
+    <span style="color: red;"> ! Make sure go is installed on your machine.</span> 
+  </li>
+</ul>
 ```go
 $ go run main.go trace <ip-address>
 ```
