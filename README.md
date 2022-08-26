@@ -1,6 +1,8 @@
 # RIPyourIP
 > <span style="color: blue;">CLI tool that let's you trace credentials based on an IP address.</span>
 
+***
+
 ### To run the program: 
 <span style="color: red;"> ! Make sure go is installed on your machine.</span> <br/>
 ```go
@@ -8,6 +10,8 @@ $ go run main.go trace <ip-address>
 ```
 
 ![ripyourip running on Colson's MacBook Pro](https://i.imgur.com/UoDWobr.png)
+
+***
 
 You can load more info referring to the JSON response, in cmd/trace.go
 
