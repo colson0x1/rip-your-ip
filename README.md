@@ -9,7 +9,7 @@
     <span style="color: red;"> Make sure go is installed on your machine.</span> 
   </li>
 </ul>
-*You can download it here: * [golang](https://go.dev/dl/)
+*You can download it here: * [golang][https://go.dev/dl/]
 
 ```go
 $ go run main.go trace <ip-address>
