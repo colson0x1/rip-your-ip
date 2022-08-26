@@ -2,7 +2,7 @@
 > CLI tool that let's you trace credentials based on an IP address.
 
 ### To run the program: 
-! Make sure go is installed on your machine.<br>
+![#f03c15]! Make sure go is installed on your machine.<br>
 ```go
 $ go run main.go trace <ip-address>
 ```
