@@ -11,4 +11,4 @@ $ go run main.go trace <ip-address>
 
 You can load more info referring to the JSON response, in cmd/trace.go
 
-![ripyourip postman retrieving http get request on ipinfo.io](https://i.imgur.com/ByYLp40.png)
+![ripyourip postman retrieving http get request on ipinfo.io](https://i.imgur.com/7rEB9hh.png)
